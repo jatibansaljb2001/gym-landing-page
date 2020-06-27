@@ -1,0 +1,1 @@
+This is starter template for gym website Landing Page.
